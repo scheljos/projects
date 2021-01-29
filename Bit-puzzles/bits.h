@@ -1,0 +1,16 @@
+int bitMatch(int, int);
+int test_bitMatch(int, int);
+int magicNumber();
+int test_magicNumber();
+int copyLSByte(int);
+int test_copyLSByte(int);
+int isNonNegative(int);
+int test_isNonNegative(int);
+int isLowercase(int);
+int test_isLowercase(int);
+int isUppercaseConsonant(int);
+int test_isUppercaseConsonant(int);
+int satUMul3(int);
+int test_satUMul3(int);
+unsigned floatUChar2Float(unsigned char);
+unsigned test_floatUChar2Float(int);
